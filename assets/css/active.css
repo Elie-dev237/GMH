@@ -1,0 +1,11 @@
+/* Styles pour l'onglet actif */
+nav a.active {
+
+    color: #009FDA!important;
+  }
+  nav a:hover:not(.active) {
+    color:#009FDA!important;
+  }
+nav a.produits{
+    cursor: pointer;
+}
